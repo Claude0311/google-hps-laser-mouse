@@ -1,0 +1,9 @@
+[submodule "laser-attiny85"]
+	path = laser-attiny85
+	url = https://github.com/Claude0311/laser-attiny85.git
+[submodule "laser-control"]
+	path = laser-control
+	url = https://github.com/Claude0311/laser-control.git
+[submodule "mouse-control"]
+	path = mouse-control
+	url = https://github.com/Claude0311/mouse-control.git
