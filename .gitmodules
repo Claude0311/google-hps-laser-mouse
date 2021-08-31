@@ -7,3 +7,9 @@
 [submodule "mouse-control"]
 	path = mouse-control
 	url = https://github.com/Claude0311/mouse-control.git
+[submodule "mouse-control-v2"]
+	path = mouse-control-v2
+	url = https://github.com/Claude0311/mouse-control-v2.git
+[submodule "laser-tracking"]
+	path = laser-tracking
+	url = https://github.com/Claude0311/laser-tracking
